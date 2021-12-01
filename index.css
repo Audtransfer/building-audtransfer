@@ -35,9 +35,8 @@ main {
 }
 .content {
 	background-color: #dba3f5;
-	display: flex;
-	flex-direction: column;
-	align-items: center;
+	display: grid;
+	justify-items: center;
 	padding: 30px;
 }
 .dog {
