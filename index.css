@@ -7,8 +7,7 @@ body {
 	-o-font-feature-settings: "kern" 1;
 	font-feature-settings: "kern" 1;
 	font-kerning: normal;
-	font: 400, 1em/1.5 ,'Roboto';
-	font-family: 'Roboto', sans-serif;
+	font: 400 1em/1.5 'Roboto', sans-serif;
 	color: #2a2a2a;
 	background: #ffffff;
 	display: flex;
